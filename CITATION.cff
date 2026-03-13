@@ -1,0 +1,24 @@
+title: "Campana-Kobayashi Hyperbolicity via Orbifold-Hyperbolic Persistence"
+message: "If you use this workspace, cite the manuscript and theorem notes."
+type: software
+authors:
+  - name: "HautevilleHouse"
+date-released: 2026-03-05
+repository-code: "https://github.com/HautevilleHouse/campana-kobayashi-hyperbolicity-canonical-lane"
+url: "https://github.com/HautevilleHouse/campana-kobayashi-hyperbolicity-canonical-lane"
+license: None
+keywords:
+  - campana-hyperbolicity
+  - canonical-lane
+  - complex-geometry
+  - kobayashi-hyperbolicity
+  - local-to-global
+  - manifold-constrained
+  - mathematical-proof
+  - reproducibility
+preferred-citation:
+  type: article
+  title: "Campana-Kobayashi Hyperbolicity via Orbifold-Hyperbolic Persistence"
+  authors:
+    - name: "HautevilleHouse"
+  date: 2026-03-05

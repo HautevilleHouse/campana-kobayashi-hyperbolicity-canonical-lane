@@ -1,0 +1,53 @@
+{
+  "constants": {
+    "eps_coh": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/CAMPANA_KOBAYASHI_HYPERBOLICITY_PREPRINT.md Section 3; raw=0.0, ref=1.0, formula=eps_coh_raw",
+      "source": "artifacts/constants_extracted.json#eps_coh",
+      "source_section": "paper/CAMPANA_KOBAYASHI_HYPERBOLICITY_PREPRINT.md Section 3",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 0.0
+    },
+    "kappa_compact": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/CAMPANA_KOBAYASHI_HYPERBOLICITY_PREPRINT.md Section 3; raw=0.8038585209003215, ref=1.0, formula=1.0 / (1.0 + delta_comp_sup_raw)",
+      "source": "artifacts/constants_extracted.json#kappa_compact",
+      "source_section": "paper/CAMPANA_KOBAYASHI_HYPERBOLICITY_PREPRINT.md Section 3",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 0.8038585209003215
+    },
+    "kappa_hyperbolic": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/CAMPANA_KOBAYASHI_HYPERBOLICITY_PREPRINT.md Section 3; raw=1.091838, ref=1.0, formula=c_core_raw * density_raw - e_core_raw",
+      "source": "artifacts/constants_extracted.json#kappa_hyperbolic",
+      "source_section": "paper/CAMPANA_KOBAYASHI_HYPERBOLICITY_PREPRINT.md Section 3",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 1.091838
+    },
+    "orbifold_lock": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/CAMPANA_KOBAYASHI_HYPERBOLICITY_PREPRINT.md Section 3; raw=1.02951, ref=1.0, formula=c_transfer_raw * transfer_gain_raw - e_transfer_raw",
+      "source": "artifacts/constants_extracted.json#orbifold_lock",
+      "source_section": "paper/CAMPANA_KOBAYASHI_HYPERBOLICITY_PREPRINT.md Section 3",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 1.02951
+    },
+    "rho_rigidity": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/CAMPANA_KOBAYASHI_HYPERBOLICITY_PREPRINT.md Section 3; raw=1.077, ref=1.0, formula=rho_rigidity_raw",
+      "source": "artifacts/constants_extracted.json#rho_rigidity",
+      "source_section": "paper/CAMPANA_KOBAYASHI_HYPERBOLICITY_PREPRINT.md Section 3",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 1.077
+    },
+    "sigma_entire": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/CAMPANA_KOBAYASHI_HYPERBOLICITY_PREPRINT.md Section 3; raw=1.075, ref=1.0, formula=capture_floor_raw - transport_loss_raw - restart_loss_raw",
+      "source": "artifacts/constants_extracted.json#sigma_entire",
+      "source_section": "paper/CAMPANA_KOBAYASHI_HYPERBOLICITY_PREPRINT.md Section 3",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 1.075
+    }
+  },
+  "updated_at_utc": "2026-03-13T05:05:56Z"
+}
