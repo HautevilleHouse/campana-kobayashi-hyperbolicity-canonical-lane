@@ -44,6 +44,16 @@ Strict closure margin:
 - `CKH_G6`: `eps_coh`
 - `CKH_GM`: final strict margin
 
+## 3A. Standard-Language Bridge
+
+In ordinary complex-geometric language, the canonical-lane endpoint is the
+orbifold-hyperbolic target class controlled by Kobayashi-type exclusion data on
+the declared admissible family. The state `u_tau` tracks the same packet of
+hyperbolic and orbifold data in the projected lane, while `orbifold_lock` and
+`eps_coh` record the bridge conditions used to identify the extracted endpoint
+with the standard target statement. The determining observables are recorded in
+`notes/IDENTIFICATION_BRIDGE.md`.
+
 ## 4. Reproducibility
 
 Run `bash repro/run_repro.sh` and inspect `repro/certificate_runtime.json`.
